@@ -60,7 +60,3 @@ Each stock dataset contains 889 rows.
 * Calculating moving averages for historical stock prices.
 * Using conditional logic to classify trading signals.
 * Combining datasets and extracting meaningful information using SQL.
-
-## Disclaimer
-
-This project is for educational and analytical purposes only. The trading signals are based on historical data and do not constitute financial advice or guarantee future stock performance.
